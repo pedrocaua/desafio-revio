@@ -16,7 +16,7 @@ Tecnologias
 - Uvicorn
 
 Como rodar ?
-1. Clone o repositório
+  1. Clone o repositório
   2. Instale as dependências ->  pip install -r requirements.txt
-    4. Execute a API -> uvicorn api.app:app --reload
-      5. Acesse em http://127.0.0.1:8000/docs
+  3. Execute a API -> uvicorn api.app:app --reload
+  4. Acesse em http://127.0.0.1:8000/docs
