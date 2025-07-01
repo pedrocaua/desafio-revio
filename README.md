@@ -4,10 +4,10 @@ Projeto desenvolvido para o processo seletivo da Revio.
 O objetivo é realizar scraping de um HTML e disponibilizar os dados por uma API.
 
 - Funcionalidades
-`/listar_produtos`: retorna todos os produtos
-`/buscar_por_nome`: busca por nome
-`/buscar_por_preco`: filtra por preço
-`/buscar_por_nota`: filtra por avaliação
+/listar_produtos: retorna todos os produtos
+/buscar_por_nome: busca por nome
+/buscar_por_preco: filtra por preço
+/buscar_por_nota: filtra por avaliação
 
 Tecnologias
 - Python
